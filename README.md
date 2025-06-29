@@ -1,5 +1,5 @@
 # Digit-Recognition-with-K-Nearest-Neighbors-KNN-
-Ce projet est aussi disponible en français : README_FR.md
+Ce projet est aussi disponible en français : [README_FR.md](README_FR.md)
 
 This project demonstrates a simple handwritten digit recognition system using the K-Nearest Neighbors (KNN) algorithm and the classic Digits dataset from Scikit-learn. It includes two parts:
 
